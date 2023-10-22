@@ -1,7 +1,7 @@
-/*Programa: Seguridad 3 capas
-Autor: Adony Espinal
-Fecha: 05-10-2023
-*/
+//Programa: Seguridad 3 capas
+//Autor: Casanova Kiara
+//Fecha: 05-10-2023
+
 
 #include<iostream>
 using namespace std;

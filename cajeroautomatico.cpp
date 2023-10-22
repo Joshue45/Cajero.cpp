@@ -1,5 +1,5 @@
 //Programa: Cajero Automatico
-//Autor: Espinal Adony
+//Autor: Casanova Kiara
 //Fecha: 12-10-2023
 //Archivo: cajeroautomatico.cpp
 
